@@ -1,6 +1,4 @@
 <h1 align="center">Hi there , I'm Leen Zreaq</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leenhasanzreaq&label=Profile%20views&color=0e75b6&style=flat" alt="leenhasanzreaq" /> </p>
 
 - 🔭 I’m currently working on **Game Developer**
@@ -16,13 +14,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lzreaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lzreaq" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/‏leen zreaq‏" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="‏leen zreaq‏" height="30" width="40" /></a>
-<a href="https://fb.com/leen zraq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leen zraq" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/leen-zreaq-52a070365/‏" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leen-zreaq-52a070365/‏" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/leen.zreaq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/leen.zreaq/" height="30" width="40" /></a>
 <a href="https://instagram.com/leen_zreaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leen_zreaq" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@leenzreaq-r8y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@leenzreaq-r8y" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/leenzreaq21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/leenzreaq21" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@leenzreaq-r8y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@leenzreaq-r8y" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/leenzreaq21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="leenzreaq21" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/leen_h_zreaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="leen_h_zreaq" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/leenhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leenhasan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vompk3gkzl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vompk3gkzl" height="30" width="40" /></a>
 <a href="https://discord.gg/leen04556" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="leen04556" height="30" width="40" /></a>
 </p>
 
