@@ -20,7 +20,7 @@
 <a href="https://fb.com/leen zraq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leen zraq" height="30" width="40" /></a>
 <a href="https://instagram.com/leen_zreaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leen_zreaq" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@leenzreaq-r8y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@leenzreaq-r8y" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/leen zreaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="leen zreaq" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/leenzreaq21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/leenzreaq21" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/leen_h_zreaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="leen_h_zreaq" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/leenhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leenhasan" height="30" width="40" /></a>
 <a href="https://discord.gg/leen04556" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="leen04556" height="30" width="40" /></a>
@@ -32,3 +32,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leenhasanzreaq&show_icons=true&locale=en&layout=compact" alt="leenhasanzreaq" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leenhasanzreaq&show_icons=true&locale=en" alt="leenhasanzreaq" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leenhasanzreaq&" alt="leenhasanzreaq" /></p>
