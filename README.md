@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Game Developer**
 
-- 🌱 in the future i want to be **front end**
-
 - 💬 Ask me about **any thing at any time**
 
 - 📫 How to reach me **leenzreaq21@gmail.com**
