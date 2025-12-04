@@ -82,9 +82,7 @@
 
 <div align="center">
 
-### "If you can't find a good person, be good; maybe someone will find you."
-
-**Thank you for visiting my profile! 😊**
+### " If you can't find a good person, be good maybe someone will find you "
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LeenHasanZreaq&color=brightgreen&style=flat-square&label=Profile+Views)
 
