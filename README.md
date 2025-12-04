@@ -21,4 +21,4 @@ src="https://img.shields.io/github/followers/LeenHasanZreaq?logo=github&style=fo
 src="https://img.shields.io/twitter/follow/LZreaq?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.twitch.tv/vompk3gkzl" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/vompk3gkzl?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
-### Badges
+
