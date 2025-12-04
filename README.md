@@ -2,10 +2,6 @@
 
 # Hi 👋, I'm Leen Zreaq
 
-### A passionate developer from Nablus
-
-<img src="https://github.com/LeenHasanZreaq.png" alt="Leen Zreaq" width="150" height="150" style="border-radius: 50%;" />
-
 </div>
 
 ## 💼 Current Work
@@ -83,6 +79,7 @@
 <div align="center">
 
 ### " If you can't find a good person, be good maybe someone will find you "
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LeenHasanZreaq&color=brightgreen&style=flat-square&label=Profile+Views)
 
