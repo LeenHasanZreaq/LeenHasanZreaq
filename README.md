@@ -82,7 +82,7 @@
 
 <div align="center">
 
-### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### "If you can't find a good person, be good; maybe someone will find you."
 
 **Thank you for visiting my profile! 😊**
 
