@@ -6,7 +6,7 @@ Engineer | Programmer | Game Developer | Problem Solver | 3D Designer | Beginner
 * 🌍  I'm based in Nablus
 * 🖥️  See my portfolio at [Githup profile](http://github.com/LeenHasanZreaq)
 * ✉️  You can contact me at [leenzreaq21@gmail.com](mailto:leenzreaq21@gmail.com )
-* 🧠  I'm currently learning Learning Front-End development and building interactive web projects
+* 🧠  I'm currently Learning Front-End development and building interactive web projects
 * 💬  Ask me about Ask me anything at any time
 
 <p align="left">
