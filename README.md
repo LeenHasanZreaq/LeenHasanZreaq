@@ -4,13 +4,7 @@
 
 ### A passionate developer from Nablus
 
-<img src="https://github.com/LeenHasanZreaq.png" alt="Leen Zreaq" width="150" height="150" style="border-radius: 50%;" />
-
 </div>
-
-## 🚀 About Me
-
-A passionate Computer Engineering student at Khadouri University, continuously developing myself both technically and personally. I specialize in game development using Unity and Unreal Engine, with a strong interest in creating unique and innovative game concepts. I am inspired by the belief that “One day, I will create something great.” My ultimate goal is to design and develop professional games that leave an impact, while living the life I have always envisioned
 
 ## 💼 Current Work
 
@@ -27,15 +21,6 @@ A passionate Computer Engineering student at Khadouri University, continuously d
 - 🌱 I'm currently learning **Front-End development and building interactive web projects**
 
 </div>
-
-## 🎓 Education
-
-| Institution | Degree | Duration |
-|---|---|---|
-| PTUK |  |  -  |
-
-###  in computer engineering 
-*PTUK*
 
 ## 📞 Contact & Links
 
