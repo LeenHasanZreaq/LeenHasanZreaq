@@ -74,40 +74,7 @@
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=LeenHasanZreaq&label=Profile%20Visitors&color=blueviolet&style=flat-square)
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=LeenHasanZreaq&theme=onedark&column=7&margin-w=15&margin-h=15)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeenHasanZreaq&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeenHasanZreaq&layout=compact&theme=radical&langs_count=10)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeenHasanZreaq&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
 ![LeetCode Stats](https://readmecodegen.com/api/leetcode-stats/VomPK3GkZL?theme=dark)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/https://x.com/LZreaq?style=social)](https://twitter.com/https://x.com/LZreaq)
-
-<!-- DEVTO_BLOG:START -->
-<!-- Repositories that create this section need to replace the URL with their own feed URL. -->
-<!-- It uses a GitHub Action to fetch and display recent posts. -->
-<!-- View https://github.com/gautamkrishnar/blog-post-workflow for setup. -->
-<!-- DEVTO_BLOG:END -->
-**Requires GitHub Action setup.** See [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow).
-
-<!-- MEDIUM_BLOG:START -->
-<!-- Repositories that create this section need to replace the URL with their own feed URL. -->
-<!-- It uses a GitHub Action to fetch and display recent posts. -->
-<!-- View https://github.com/gautamkrishnar/blog-post-workflow for setup. -->
-<!-- MEDIUM_BLOG:END -->
-**Requires GitHub Action setup.** See [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow).
-
-<!-- BLOG_POST_LIST:START -->
-<!-- Repositories that create this section need to replace the URL with their own feed URL. -->
-<!-- It uses a GitHub Action to fetch and display recent posts. -->
-<!-- View https://github.com/gautamkrishnar/blog-post-workflow for setup. -->
-<!-- BLOG_POST_LIST:END -->
-**Requires GitHub Action setup.** See [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow).
 
 </div>
 
