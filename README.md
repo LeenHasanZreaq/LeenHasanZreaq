@@ -2,7 +2,6 @@
 
 # Hi 👋, I'm Leen Zreaq
 
-### Nablus
 
 </div>
 
