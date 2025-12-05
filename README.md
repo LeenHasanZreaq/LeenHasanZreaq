@@ -2,7 +2,6 @@
 
 # Hi 👋, I'm Leen Zreaq
 
-
 </div>
 
 ## 🚀 About Me
@@ -75,14 +74,14 @@ A passionate computer engineering student at Khodouri University, I strive for c
 
 <div align="center">
 
-![LeetCode Stats](https://readmecodegen.com/api/leetcode-stats/VomPK3GkZL?theme=light)
+![LeetCode Stats](https://readmecodegen.com/api/leetcode-stats/VomPK3GkZL?theme=dark)
 
 </div>
 
 ---
 
 <div align="center">
-
+  
 " If you can't find a good person, be good maybe someone will find you "
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square&label=Profile+Views)
