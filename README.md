@@ -44,13 +44,15 @@ I enjoy understanding how applications behave internally — from APIs and authe
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack & Tools
 
 <div align="center">
 
+<!-- OS / Core -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
 <img width="14"/>
 
+<!-- Languages -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
 <img width="14"/>
 
@@ -60,12 +62,14 @@ I enjoy understanding how applications behave internally — from APIs and authe
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/>
 <img width="14"/>
 
+<!-- Backend -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45"/>
 <img width="14"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
+<img src="https://skillicons.dev/icons?i=docker" height="45"/>
 <img width="14"/>
 
+<!-- Databases -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/>
 <img width="14"/>
 
@@ -75,11 +79,27 @@ I enjoy understanding how applications behave internally — from APIs and authe
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
 <img width="14"/>
 
+<!-- API / Testing -->
 <img src="https://skillicons.dev/icons?i=postman" height="45"/>
+<img width="14"/>
+
+<img src="https://cdn.simpleicons.org/swagger/85EA2D" height="45"/>
+<img width="14"/>
+
+<!-- Security -->
+<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img width="8"/>
+
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white"/>
+<img width="8"/>
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 
 </div>
 
+
 ---
+
 
 ## 🔥 GitHub Stats
 
