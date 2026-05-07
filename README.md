@@ -1,151 +1,114 @@
 <div align="center">
-  <img height="180" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" />
+  <img height="150" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif"  />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
+  <a href="https://www.linkedin.com/in/leen-zreaq-52a070365/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+  <a href="https://www.youtube.com/@leenzreaq-r8y" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="leen04556" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/engineer10__/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://web.telegram.org/a/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+  <a href="+972598486231" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+  <a href="https://tryhackme.com/p/leenzreaq21" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
+  </a>
+  <a href="leenzreaq21@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
-  <a href="https://tryhackme.com">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" height="25" />
-  </a>
+###
 
-  <a href="https://github.com">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25" />
-  </a>
+<h1 align="center">Hi 👋, I'm Leen Zreaq , Backend Dev && cyber security</h1>
 
-  <a href="mailto:leenzreaq21@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
-  </a>
+###
 
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="25" />
-  </a>
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">Computer Engineering student at Palestine Technical University – Kadoorie focused on backend systems and cybersecurity. Interested in understanding how applications are built, how they behave under real-world conditions, and how vulnerabilities emerge in modern systems. Passionate about secure backend architecture, problem solving, and building reliable software.</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/intellijidea/000000" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pug/A86454" height="40" alt="pug logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gtk" height="40" alt="gtk logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=LeenHasanZreaq&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LeenHasanZreaq.LeenHasanZreaq&left_text=Profile%20Views" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeenHasanZreaq&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
-
-<h1 align="center">Hey 👋, I'm Leen Zreaq</h1>
-
-<h3 align="center">Backend Developer • Cybersecurity Enthusiast • Computer Engineering Student</h3>
-
-###
-
-<h3 align="left">👩‍💻 About Me</h3>
-
-<p align="left">
-Computer Engineering student at Palestine Technical University – Kadoorie focused on backend systems and cybersecurity. Interested in understanding how applications are built, how they behave under real-world conditions, and how vulnerabilities emerge in modern systems. Passionate about secure backend architecture, problem solving, and building reliable software.
-</p>
-
-###
-
-<h3 align="left">🛠 Languages and Tools</h3>
-
-###
-
-<h4 align="left">💻 Programming Languages</h4>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
-  <img width="10" />
-
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
-  <img width="10" />
-
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo" />
-  <img width="10" />
-
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="sql logo" />
-</div>
-
-###
-
-<h4 align="left">⚙️ Backend & Databases</h4>
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" alt="mariadb logo" />
-  <img width="10" />
-
-  <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="40" alt="swagger logo" />
-</div>
-
-###
-
-<h4 align="left">🔐 Security Tools</h4>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-</div>
-
-###
-
-<h4 align="left">🛠 Tools & Technologies</h4>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="10" />
-
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
-  <img width="10" />
-
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-  <img width="10" />
-
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />
-</div>
-
-###
-
-<h4 align="left">🖥 Environment</h4>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=arch" height="40" alt="arch linux logo" />
-  <img width="10" />
-
-  <img src="https://cdn.simpleicons.org/wayland/FFBC00" height="40" alt="hyprland logo" />
-  <img width="10" />
-
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellij logo" />
-</div>
-
-###
-
-<h3 align="left">🔥 My Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeenHasanZreaq&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LeenHasanZreaq.LeenHasanZreaq&"  />
 </div>
 
-<br>
+###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=LeenHasanZreaq&theme=tokyonight&hide_border=true" height="180" />
-</div>
+<img src="https://raw.githubusercontent.com/LeenHasanZreaq/LeenHasanZreaq/output/snake.svg" alt="Snake animation" />
+
+###
