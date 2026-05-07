@@ -37,6 +37,10 @@
 
 ###
 
+<p align="center">I Use Arch , BTW ...</p>
+
+###
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
