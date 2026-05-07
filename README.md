@@ -1,89 +1,107 @@
 <div align="center">
-
-# Hi 👋, I'm Leen Zreaq
-
+  <img height="180" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" />
 </div>
 
-## 🚀 About Me
+<h1 align="center">Hi 👋 I'm Leen Zreaq</h1>
 
-A passionate computer engineering student at Khodouri University, I strive for continuous self-improvement, both technically and personally. I am a lifelong learner, inspired by my belief that "I will create something great someday." My ultimate goal is to design and develop impactful projects while living the life I've always dreamed of.
+<h3 align="center">
+Backend Developer • Cybersecurity Enthusiast • Computer Engineering Student
+</h3>
 
-## 💼 Current Work
-
-<div align="left">
-
-- 🔭 I'm currently working on **Engineer | Programmer | Game Developer | Problem Solver | 3D Designer | Beginner Front-End | 2D Designer**
-
-</div>
-
-## 📚 Learning & Knowledge
-
-<div align="left">
-
-- 🌱 I'm currently learning **Front-End development and building interactive web projects**
-
-</div>
-
-## 📞 Contact & Links
-
-<div align="left">
-
-- 📫 How to reach me **leenzreaq21@gmail.com**
-
-</div>
-
-## ⚡ Fun Fact
+---
 
 <div align="center">
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://tryhackme.com">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+  </a>
 
-*Engineering*
+  <a href="mailto:leenzreaq21@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-</div>
-
-## 🌐 Connect with Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeenHasanZreaq)&nbsp;&nbsp;&nbsp;[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/LZreaq)&nbsp;&nbsp;&nbsp;[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/leen.zreaq)&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/engineer10__)&nbsp;&nbsp;&nbsp;[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/leenzreaq21)&nbsp;&nbsp;&nbsp;[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Leen_H_Zreaq)&nbsp;&nbsp;&nbsp;[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/VomPK3GkZL)&nbsp;&nbsp;&nbsp;[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2f8d46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/leenzrfrbv)&nbsp;&nbsp;&nbsp;[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/leen04556)
-
-</div>
-
-## 🛠️ Skills & Technologies
-
-### 💻 Other
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;&nbsp;&nbsp;![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 💻 Game Engines
-
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)&nbsp;&nbsp;&nbsp;![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
-
-### 💻 Programming Languages
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;&nbsp;&nbsp;![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 💻 Frontend Development
-
-![Pug](https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white)&nbsp;&nbsp;&nbsp;![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;&nbsp;![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;&nbsp;![GTK](https://img.shields.io/badge/GTK-72BA8A?style=for-the-badge&logo=gtk&logoColor=white)
-
-### 💻 Software
-
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)&nbsp;&nbsp;&nbsp;![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;&nbsp;&nbsp;![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)&nbsp;&nbsp;&nbsp;![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)&nbsp;&nbsp;&nbsp;![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
-
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-![LeetCode Stats](https://readmecodegen.com/api/leetcode-stats/VomPK3GkZL?theme=dark)
-
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 </div>
 
 ---
 
 <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LeenHasanZreaq.LeenHasanZreaq&left_text=Profile%20Views"/>
+</div>
 
-" If you can't find a good person, be good maybe someone will find you "
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square&label=Profile+Views)
+## 👩‍💻 About Me
+
+Computer Engineering student at Palestine Technical University – Kadoorie focused on backend systems and cybersecurity.
+
+I enjoy understanding how applications behave internally — from APIs and authentication systems to security boundaries and backend architecture. Passionate about secure software development, problem solving, and exploring how vulnerabilities emerge in modern systems.
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
+<img width="14"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
+<img width="14"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+<img width="14"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/>
+<img width="14"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45"/>
+<img width="14"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
+<img width="14"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/>
+<img width="14"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+<img width="14"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
+<img width="14"/>
+
+<img src="https://skillicons.dev/icons?i=postman" height="45"/>
 
 </div>
+
+---
+
+## 🔥 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeenHasanZreaq&show_icons=true&theme=tokyonight&hide_border=true"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=LeenHasanZreaq&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- Backend Development
+- API Security
+- Authentication & Authorization
+- Bug Bounty Learning
+- Secure System Design
+- Linux & Networking
+
+---
